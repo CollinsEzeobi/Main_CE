@@ -1,0 +1,22 @@
+Request user to enter a positive number repeatedly
+when user enters the value zero 
+print "calculating"
+determine the largest of the numbers that user inputed before "calculating" 
+
+input your name
+store their name in varaible called "first_name"
+print"first_name"
+print"hello_world"
+
+read an arbitrary number of intergers
+printreturn arithmetic average
+
+read a grocery list
+sort grocery item that are not paid for in alphabetical order
+print"grocery list"
+
+read X,Y
+S = X + Y
+A = S/2
+P = X + Y
+print"S,A,P"

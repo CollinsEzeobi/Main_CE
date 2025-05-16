@@ -1,0 +1,7 @@
+# Hashing various data types
+print(hash(1)) # Integer
+print(hash(1.2)) # Float
+print(hash("dataquest")) # String
+print(hash((1, 2))) # Tuple
+print(hash([1, 2, 3]))
+
